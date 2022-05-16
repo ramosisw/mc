@@ -10,9 +10,8 @@ require (
 	github.com/inconshreveable/go-update v0.0.0-20160112193335-8152e7eb6ccf
 	github.com/mattn/go-colorable v0.1.1
 	github.com/mattn/go-isatty v0.0.7
-	github.com/minio/minio v0.0.0-20191001201215-ff5bf519522f
 	github.com/minio/cli v1.22.0
-	github.com/minio/minio v0.0.0-20190927193314-1c5b05c130fa
+	github.com/minio/minio v0.0.0-20191001201215-ff5bf519522f
 	github.com/minio/minio-go/v6 v6.0.39
 	github.com/minio/sha256-simd v0.1.1
 	github.com/mitchellh/go-homedir v1.1.0
@@ -24,7 +23,7 @@ require (
 	golang.org/x/text v0.3.2
 	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127
 	gopkg.in/h2non/filetype.v1 v1.0.5
-	gopkg.in/yaml.v2 v2.2.2
+	gopkg.in/yaml.v2 v2.2.8
 )
 
 replace github.com/gorilla/rpc v1.2.0+incompatible => github.com/gorilla/rpc v1.2.0
